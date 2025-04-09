@@ -1,4 +1,4 @@
-# Smart AI SLE
+# Smart [AI]sle
 
 A barcode scanning app that analyzes food products for healthiness, ingredients, and allergens using AI-powered analysis.
 
